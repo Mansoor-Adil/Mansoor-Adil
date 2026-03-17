@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Mansoor Adil 👋
 
-<!--
-**Mansoor-Adil/Mansoor-Adil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Researcher | Florida State University  
+Civil & Environmental Engineering | GIS & Remote Sensing  
 
-Here are some ideas to get you started:
+Research Interests
+- Climate risk and infrastructure resilience
+- Geospatial analytics and spatial modeling
+- Disaster risk reduction
+- Web-GIS and interactive dashboards
+- Machine learning for environmental systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+- Python
+- GIS (ArcGIS, QGIS)
+- Remote Sensing
+- Geospatial Data Science
+- Web GIS
+- Data Visualization
+
+Current Work
+Resilient Infrastructure and Disaster Response (RIDER) Center
